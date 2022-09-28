@@ -1,0 +1,47 @@
+#tform{
+	/* 背景颜色 */
+	/* background-color: grey; */
+	/* 边框样式*/
+	border: solid;
+	/* 边框合并 */
+	border-collapse: collapse;
+	/* 边框宽度 */
+	border-width: 3px;
+	/* 边框颜色 */
+	border-color: cornflowerblue;
+	/* 表格宽度 */
+	width: 600px;
+	height: 300px;
+}
+#r1{
+	color: red;
+	background-color: deepskyblue;
+	font-family: "宋体";
+	font-size: 15px;
+	/* 字体间距 */
+	letter-spacing: 10px;
+}
+#r2,#r3,#r4,#r5,#r6,#r7,#r8{
+	font-family: "黑体";
+	font-weight: bold;
+	border-style: solid;
+	border-color: darkgray;
+	border-width: 2px;
+}
+#d2,#d3,#d4,#d5,#d6,#d7{
+	text-align: right;
+	border-style: solid;
+	border-color: darkgray;
+	border-width: 2px;
+}
+#d8{
+	border-style: solid;
+	border-color: darkgray;
+	border-width: 2px;
+}
+input{
+	border-top-width: 2px;
+	border-left-width: 2px;
+	border-top-color: black;
+	border-left-color: black;
+}
